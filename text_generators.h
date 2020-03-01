@@ -1,0 +1,4 @@
+#ifndef TEXT_GENERATORS_H
+#define TEXT_GENERATORS_H
+
+#endif // TEXT_GENERATORS_H

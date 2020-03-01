@@ -1,0 +1,4 @@
+#ifndef YESNOWIDGET_H
+#define YESNOWIDGET_H
+
+#endif // YESNOWIDGET_H
